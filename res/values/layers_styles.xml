@@ -14,5 +14,5 @@
 -->
 <resources>
    <!-- Unlink this dialog from framework -->
-   <style name="Theme.Material.Equalizer" parent="@android:style/Theme.Material.Light" />
+   <style name="Theme.Material.Equalizer" parent="@android:style/Theme.Material.Settings" />
 </resources>
